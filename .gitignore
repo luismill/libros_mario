@@ -1,2 +1,6 @@
 __pycache__/
+.conda/
 config.py
+*.docx
+*.csv
+*.html
